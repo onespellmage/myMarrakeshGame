@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  Field.cpp
+  GMain.cpp
+  Marrakesh.cpp
+Marrakesh.cpp(5): warning C4603: _CRTDBG_MAP_ALLOC: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  Marrakesh.cpp(5): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  Marrakesh.cpp(7): note: использование предварительно скомпилированного заголовка
+  SDL_Setup.cpp
+  SoundManager.cpp
+  TextureManager.cpp
+TextureManager.cpp(13): warning C4150: удаление указателя на неполный тип "SDL_Texture"; деструктор не вызван
+  d:\vsworkspace\marrakesh\include\sdl\SDL_render.h(128): note:  см. объявление "SDL_Texture"
+  Создание кода
+  0 of 687 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Marrakesh.vcxproj -> D:\VSWorkspace\Marrakesh\Release\Marrakesh.exe
+  Marrakesh.vcxproj -> D:\VSWorkspace\Marrakesh\Release\Marrakesh.pdb (Full PDB)
